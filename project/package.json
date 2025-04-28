@@ -1,0 +1,7 @@
+{
+  "name": "image-upload-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^3.7.0"
+  }
+}
